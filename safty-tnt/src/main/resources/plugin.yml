@@ -1,0 +1,6 @@
+name: safty-tnt
+version: '${project.version}'
+main: mask.inc.saftytnt.Safty_tnt
+api-version: 1.19
+author: ham_mask
+description: A plugin that makes TNT damage players without breaking blocks
